@@ -151,6 +151,3 @@ python main.py
 | 语音模型 | Whisper tiny |
 | 推理后端 | OpenCV DNN（CPU） |
 | 目标FPS | PC: 15-20fps / ARM: 5-8fps |
-
----
-祝比赛顺利！
